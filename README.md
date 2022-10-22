@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Phuc
-- I'm a sophomore at HCMIU-VNUHCM
-- A self-taught programmer
-- I usually work with Java and Python language
+- ⚡ I'm a sophomore at HCMIU-VNUHCM
+- 🔭 I'm a self-taught programmer
+- 🌱 I usually work with Java and Python language
 - 📫 How to reach me: tnphuc.ityu@gmail.com
 
 
