@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Phuc
+- I'm a sophomore at HCMIU-VNUHCM
+- A self-taught programmer
+- I usually work with Java and Python language
+- 📫 How to reach me: tnphuc.ityu@gmail.com
+
 
 <!--
 **tnphucccc/tnphucccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
