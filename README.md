@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Phuc
-### こんにちは、僕の名前は原福です
+### こんにちは 💬、僕の名前は原福です
 - ⚡ I'm a sophomore at HCMIU-VNUHCM
 - 🔭 I'm a self-taught programmer
 - 🌱 I usually work with Java and Python language
