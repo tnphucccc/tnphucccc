@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Phuc
 ### こんにちは 💬、僕の名前は原福です
 ### About me:
-- ⚡ A sophomore at HCMIU-VNUHCM
-- 🔭 A self-taught programmer
-- 🌱 Usually work with Java and Python language
+- ⚡ A third-year student at HCMIU-VNUHCM
+- 🔭 I'm a quick learner
+- 🌱 Usually work with Java and C++ language
 - 📫 How to reach me: tnphuc.ityu@gmail.com
 
 
