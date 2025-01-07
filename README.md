@@ -7,7 +7,7 @@ I am a passionate software developer interested in web development, machine lear
 ## Skills
 
 - **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express.js
+- **Frameworks/Libraries:** React, Node.js, Express.js, Pytorch
 - **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
@@ -31,7 +31,7 @@ Feel free to reach out if you have any questions or want to connect!
 
 ![tnphucccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnphucccc&show_icons=true&theme=ayu-mirage)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnphucccc&layout=compact&theme=ayu-mirage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnphucccc&size_weight=0.5&count_weight=0.5&layout=compact&theme=ayu-mirage)
 
 
 <!--
