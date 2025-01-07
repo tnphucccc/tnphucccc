@@ -1,8 +1,8 @@
-# Hi there, I'm Phuc! 👋
+# Hi there, I'm tnphucccc! 👋
 
 ## About Me
 
-I am a passionate software developer with a keen interest in web development, machine learning, and open-source contributions. I love to learn new technologies and apply them to solve real-world problems.
+I am a passionate software developer interested in web development, machine learning, and open-source contributions. I love to learn new technologies and apply them to solve real-world problems.
 
 ## Skills
 
@@ -15,17 +15,17 @@ I am a passionate software developer with a keen interest in web development, ma
 
 Here are some of the projects I have worked on:
 
-- **[Project Name](https://github.com/tnphucccc/project-name):** Brief description of the project.
-- **[Another Project](https://github.com/tnphucccc/another-project):** Brief description of the project.
-- **[Yet Another Project](https://github.com/tnphucccc/yet-another-project):** Brief description of the project.
+- **[GPTAtHome](https://github.com/tnphucccc/GPTAtHome):** A Deep Learning Project using Bigram and GPT architecture model to generate Shakespeare-style text.
+- **[SolMe](https://github.com/tnphucccc/SolMe):** A blockchain integrated chat-app allows token transaction.
+- **[LibMan](https://github.com/tnphucccc/LibMan):** A simple library management system using SpringBoot and React.
 
 ## Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Phuc Tran](https://www.linkedin.com/in/phuc-tran-hcmiu/)
+- **Twitter:** [@harafuku_](https://twitter.com/harafuku_)
+- **Email:** tnphuc.ityu@gmail.com
 
-Feel free to reach out if you have any questions or just want to connect!
+Feel free to reach out if you have any questions or want to connect!
 
 ## GitHub Stats
 
