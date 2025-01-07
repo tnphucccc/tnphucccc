@@ -28,7 +28,7 @@
 <ul style="text-align: justify;">
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/phuc-tran-hcmiu/">Phuc Tran</a></li>
   <li><strong>Twitter:</strong> <a href="https://twitter.com/harafuku_">@harafuku_</a></li>
-  <li><strong>Email:</strong> tnphuc.ityu@gmail.com</li>
+  <li><strong>Email:</strong> <a href="mailto:tnphuc.ityu@gmail.com">tnphuc.ityu@gmail.com</a></li>
 </ul>
 
 <p style="text-align: justify;">Feel free to reach out if you have any questions or want to connect!</p>
