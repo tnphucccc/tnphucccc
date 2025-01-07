@@ -7,7 +7,7 @@ I am a passionate software developer interested in web development, machine lear
 ## Skills
 
 - **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express.js, Pytorch
+- **Frameworks/Libraries:** React, Node.js, Express.js, PyTorch
 - **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
