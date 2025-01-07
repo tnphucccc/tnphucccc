@@ -29,7 +29,7 @@ Feel free to reach out if you have any questions or want to connect!
 
 ## GitHub Stats
 
-![tnphucccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnphucccc&show_icons=true&theme=ayu-mirage)
+![tnphucccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnphucccc&show_icons=true&rank_icon=github&theme=ayu-mirage)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnphucccc&size_weight=0.5&count_weight=0.5&layout=compact&theme=ayu-mirage)
 
