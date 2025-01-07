@@ -17,22 +17,27 @@
 
 <p style="text-align: justify;">Here are some of the projects I have worked on:</p>
 
-- **[GPTAtHome](https://github.com/tnphucccc/GPTAtHome):** A Deep Learning Project using Bigram and GPT architecture model to generate Shakespeare-style text.
-- **[SolMe](https://github.com/tnphucccc/SolMe):** A blockchain integrated chat-app allows token transaction.
-- **[LibMan](https://github.com/tnphucccc/LibMan):** A simple library management system using SpringBoot and React.
+<ul style="text-align: justify;">
+  <li><strong>[GPTAtHome](https://github.com/tnphucccc/GPTAtHome):</strong> A Deep Learning Project using Bigram and GPT architecture model to generate Shakespeare-style text.</li>
+  <li><strong>[SolMe](https://github.com/tnphucccc/SolMe):</strong> A blockchain integrated chat-app allows token transaction.</li>
+  <li><strong>[LibMan](https://github.com/tnphucccc/LibMan):</strong> A simple library management system using SpringBoot and React.</li>
+</ul>
 
 ## Get in Touch
 
-- **LinkedIn:** [Phuc Tran](https://www.linkedin.com/in/phuc-tran-hcmiu/)
-- **Twitter:** [@harafuku_](https://twitter.com/harafuku_)
-- **Email:** tnphuc.ityu@gmail.com
+<ul style="text-align: justify;">
+  <li><strong>LinkedIn:</strong> [Phuc Tran](https://www.linkedin.com/in/phuc-tran-hcmiu/)</li>
+  <li><strong>Twitter:</strong> [@harafuku_](https://twitter.com/harafuku_)</li>
+  <li><strong>Email:</strong> tnphuc.ityu@gmail.com</li>
+</ul>
 
-Feel free to reach out if you have any questions or want to connect!
+<p style="text-align: justify;">Feel free to reach out if you have any questions or want to connect!</p>
 
 ## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tnphucccc&show_icons=true&rank_icon=github&theme=ayu-mirage" alt="tnphucccc's GitHub stats">
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnphucccc&size_weight=0.3&count_weight=0.7&hide=css&layout=compact&theme=ayu-mirage" alt="Top Langs">
 </div>
 
