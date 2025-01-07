@@ -18,9 +18,9 @@
 <p style="text-align: justify;">Here are some of the projects I have worked on:</p>
 
 <ul style="text-align: justify;">
-  <li><strong>[GPTAtHome](https://github.com/tnphucccc/GPTAtHome):</strong> A Deep Learning Project using Bigram and GPT architecture model to generate Shakespeare-style text.</li>
-  <li><strong>[SolMe](https://github.com/tnphucccc/SolMe):</strong> A blockchain integrated chat-app allows token transaction.</li>
-  <li><strong>[LibMan](https://github.com/tnphucccc/LibMan):</strong> A simple library management system using SpringBoot and React.</li>
+  <li><strong><a href="https://github.com/tnphucccc/GPTAtHome">GPTAtHome:</a></strong> A Deep Learning Project using Bigram and GPT architecture model to generate Shakespeare-style text.</li>
+  <li><strong><a href="https://github.com/tnphucccc/SolMe">SolMe:</a></strong> A blockchain integrated chat-app allows token transaction.</li>
+  <li><strong><a href="https://github.com/tnphucccc/LibMan">LibMan:</a></strong> A simple library management system using SpringBoot and React.</li>
 </ul>
 
 ## Get in Touch
