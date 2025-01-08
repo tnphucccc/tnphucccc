@@ -8,7 +8,7 @@
 
 <ul style="text-align: justify;">
   <li><strong>Languages:</strong> Python, JavaScript, TypeScript, Java, C++</li>
-  <li><strong>Frameworks/Libraries:</strong> React, Node.js, Express.js, Spring Boot,PyTorch</li>
+  <li><strong>Frameworks/Libraries:</strong> React, Node.js, Express.js, Spring Boot, PyTorch</li>
   <li><strong>Tools:</strong> Git, Docker</li>
   <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</li>
 </ul>
