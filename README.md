@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tnphucccc&show_icons=true&rank_icon=github&theme=ayu-mirage" alt="tnphucccc's GitHub stats">
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnphucccc&size_weight=0.3&count_weight=0.7&hide=css&layout=compact&theme=ayu-mirage" alt="Top Langs">
 </div>
