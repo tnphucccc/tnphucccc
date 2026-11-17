@@ -9,10 +9,12 @@ open source along the way.
 
 ## Skills
 
-- **Languages:** Python, TypeScript, JavaScript, Go, Java, C++
-- **Frameworks/Libraries:** React, Next.js, Node.js, Express, Spring Boot, Gin, PyTorch
-- **Tools:** Git, Docker
-- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+- **Languages:** TypeScript, JavaScript, Java, C++, Go, Rust, Python
+- **Backend & Infrastructure:** GraphQL, REST, AWS CDK, AWS Lambda, AWS EC2, Docker, Redis
+- **Frameworks/Libraries:** Node.js, Spring Boot, Tokio, Axum, PyTorch, Next.js
+- **Databases:** MongoDB, PostgreSQL
+- **AI-Assisted Development:** Claude Code, GitHub Copilot
+- **CS Fundamentals:** Data Structures & Algorithms, Complexity Analysis, Design Patterns
 
 ## Projects
 
