@@ -12,7 +12,6 @@ open source along the way.
 - **Languages:** Python, TypeScript, JavaScript, Go, Java, C++
 - **Frameworks/Libraries:** React, Next.js, Node.js, Express, Spring Boot, Gin, PyTorch
 - **Tools:** Git, Docker
-- **Communication & Serialization:** gRPC, Protocol Buffers
 - **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
 
 ## Projects
