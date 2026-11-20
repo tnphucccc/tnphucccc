@@ -36,7 +36,6 @@ open source along the way.
 ## Get in Touch
 
 - **LinkedIn:** [Phuc Tran](https://www.linkedin.com/in/phuc-tran-hcmiu/)
-- **Twitter:** [@harafuku_](https://twitter.com/harafuku_)
 - **Email:** [tnphuc.personal@gmail.com](mailto:tnphuc.personal@gmail.com)
 
 Feel free to reach out if you have any questions or want to connect!
